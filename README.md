@@ -8,12 +8,12 @@
 
 ##
 
-- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning NodeJS
 - 💬 Ask me about soccer, books, politic, anime, music, farm...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: when I was a kid I dreamed of being a football player 
+<!-- - 🔭 I’m currently working on ... -->
+<!-- - 📫 How to reach me: ... -->
+  
 ## 
 
 <div style="display: inline_block" align="center"><br>
@@ -23,7 +23,9 @@
   <img align="center" alt="lincu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lincu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lincu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="lincu-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />        
+  <img align="center" alt="lincu-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+  <img align="center" alt="lincu-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="lincu-Mustache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
 </div>
 
 ## 
