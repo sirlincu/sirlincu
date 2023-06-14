@@ -39,3 +39,7 @@
   ![Snake animation](https://github.com/sirlincu/sirlincu/blob/output/github-contribution-grid-snake.svg)
 
 [![](https://visitcount.itsvg.in/api?id=sirlincu&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+  
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=sirlincu&label=Profile%20Views&color=12&icon=5&pretty=false" />
+</a>
