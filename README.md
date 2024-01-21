@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/sirlincu">
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sirlincu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sirlincu&hide=html&exclude_repo=bootcamp-data-science,confusion-matrix-metrics-comparison,ignorancia-zero&layout=compact&langs_count=6&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sirlincu&hide=html,css,mustache&exclude_repo=bootcamp-data-science,confusion-matrix-metrics-comparison,ignorancia-zero&layout=compact&langs_count=6&theme=dark"/>
   <!-- <img height="150em" src="https://github-profile-trophy.vercel.app/?username=sirlincu&layout=compact&langs_count=12&theme=dark"/> -->
 </div> 
     
