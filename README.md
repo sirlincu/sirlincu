@@ -2,9 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/sirlincu">
+<!--   <img height="150" src="https://github-readme-stats.vercel.app/api?username=sirlincu&theme=dark&show_icons=true&count_private=true"> -->
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sirlincu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sirlincu&hide=html,css,mustache&exclude_repo=bootcamp-data-science,confusion-matrix-metrics-comparison,ignorancia-zero&layout=compact&langs_count=6&theme=dark"/>
-  <!-- <img height="150em" src="https://github-profile-trophy.vercel.app/?username=sirlincu&layout=compact&langs_count=12&theme=dark"/> -->
+<!--   <img width="100%"  src="https://github-profile-trophy.vercel.app/?username=sirlincu&theme=dark&no-bg=true&no-frame=false&column=7"> -->
+<!--   <img height="150em" src="https://github-profile-trophy.vercel.app/?username=sirlincu&layout=compact&langs_count=12&theme=dark"/> -->
 </div> 
     
 ##
