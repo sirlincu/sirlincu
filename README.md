@@ -1,12 +1,12 @@
 ### Hey, I'm Lincoln 👋
 
 <div align="center">
-  <a href="https://github.com/sirlincu">
-<!--   <img height="150" src="https://github-readme-stats.vercel.app/api?username=sirlincu&theme=dark&show_icons=true&count_private=true"> -->
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sirlincu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sirlincu&hide=html,css,mustache&exclude_repo=bootcamp-data-science,confusion-matrix-metrics-comparison,ignorancia-zero&layout=compact&langs_count=6&theme=dark"/>
-<!--   <img width="100%"  src="https://github-profile-trophy.vercel.app/?username=sirlincu&theme=dark&no-bg=true&no-frame=false&column=7"> -->
-<!--   <img height="150em" src="https://github-profile-trophy.vercel.app/?username=sirlincu&layout=compact&langs_count=12&theme=dark"/> -->
+  <a href="https://github.com/dotlincu">
+<!--   <img height="150" src="https://github-readme-stats.vercel.app/api?username=dotlincu&theme=dark&show_icons=true&count_private=true"> -->
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dotlincu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dotlincu&hide=html,css,mustache&exclude_repo=bootcamp-data-science,confusion-matrix-metrics-comparison,ignorancia-zero&layout=compact&langs_count=6&theme=dark"/>
+<!--   <img width="100%"  src="https://github-profile-trophy.vercel.app/?username=dotlincu&theme=dark&no-bg=true&no-frame=false&column=7"> -->
+<!--   <img height="150em" src="https://github-profile-trophy.vercel.app/?username=dotlincu&layout=compact&langs_count=12&theme=dark"/> -->
 </div> 
     
 ##
@@ -43,5 +43,5 @@
   <a href="https://www.linkedin.com/in/lincoln-reboucas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<!--  ![Snake animation](https://github.com/sirlincu/sirlincu/blob/output/github-contribution-grid-snake.svg) -->
+<!--  ![Snake animation](https://github.com/dotlincu/dotlincu/blob/output/github-contribution-grid-snake.svg) -->
 
